@@ -1,6 +1,6 @@
 ## Integration of AI with Agent-Based Modeling of Multicellular Systems: Current and Emerging Landscape
 
-This document describes the configuration and execution of the simulations shown in Figure 2 of the review. The following entries summarize the model sources, setup instructions, and the specific output files used to generate the figure panels.
+This document describes the configuration and execution of the simulations shown in Figure 2b of the review. The following entries summarize the model sources, setup instructions, and the specific output files used to generate the figure panels.
 
 - Cellular Automata — spatially structured tumor clonal evolution (HAL)
     - Model: extracted from [10.1038/s41467-021-22123-1](https://doi.org/10.1038/s41467-021-22123-1)
